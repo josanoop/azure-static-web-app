@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
           <span>Products</span>
         </a>
         <a routerLink="/about" routerLinkActive="router-link-active">
-          <span>About</span>
+          <span>Quality of work</span>
         </a>
       </ul>
     </nav>
